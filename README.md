@@ -5,10 +5,13 @@
 
 <br><br>
 
-<img src="https://i.imgur.com/your-logo-link-here.png" alt="Rizzardo Digital Logo" width="180px"/>
+<!-- LOGO OFICIAL -->
+<img src="https://raw.githubusercontent.com/samuelrizzardo/samuelrizzardo-stack/main/rizzardo%20digital.png" alt="Rizzardo Digital Logo" width="160px"/>
 
 # Samuel Rizzardo
 ### **Founder @ Rizzardo Digital**
+
+<br>
 
 <a href="https://linkedin.com/in/samuelrizzardo" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -91,27 +94,19 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na UMC e apaixonado 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Análise do GitHub
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelrizzardo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=D1B06B&icon_color=D1B06B" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelrizzardo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=D1B06B&icon_color=D1B06B" alt="Estatísticas do GitHub" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrizzardo&layout=compact&theme=tokyonight&hide_border=true&title_color=D1B06B" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrizzardo&layout=compact&theme=tokyonight&hide_border=true&title_color=D1B06B" alt="Principais idiomas" />
 
   <br><br>
 
   <img src="https://github-readme-stats.vercel.app/api/streak-stats/?username=samuelrizzardo&theme=tokyonight&hide_border=true&ring=D1B06B&fire=D1B06B&currStreakLabel=D1B06B" alt="GitHub Streak" />
-
-  <br><br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
 
 </div>
 
@@ -134,18 +129,3 @@ Se você tem um projeto em mente, precisa escalar sua presença digital ou quer 
 > **Samuel Rizzardo** • **Rizzardo Digital**
 
 </div>
-
-<!--
-**samuelrizzardo-stack/samuelrizzardo-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
