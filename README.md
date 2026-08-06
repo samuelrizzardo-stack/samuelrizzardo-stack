@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER ANIMADO / TOPO -->
-<img src="https://raw.githubusercontent.com/samuelrizzardo/samuelrizzardo-stack/main/assets/banner.png" alt="Rizzardo Digital Banner" width="100%" />
+<img src="./rizzardodigital.png" alt="rizzardodigital.png" width="160px"/>
 
 # Samuel Rizzardo
 ### **Founder @ Rizzardo Digital**
