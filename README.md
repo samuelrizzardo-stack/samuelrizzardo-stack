@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- BANNER ANIMADO / TOPO -->
+
 <img src="./rizzardodigital.png" alt="rizzardodigital.png" width="160px"/>
 
 # Samuel Rizzardo
@@ -123,14 +123,6 @@ Se você tem um projeto em mente, precisa escalar sua presença digital ou quer 
 * ✉️ **Email:** contatosamuel.rizzardo@gmail.com
 
 ---
-
-<div align="center">
-
-> Building premium software, AI and automation solutions.
-> 
-> **Samuel Rizzardo** • **Rizzardo Digital**
-
-</div>
 
 <div align="center">
 
