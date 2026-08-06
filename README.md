@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- LOGO OFICIAL -->
-<img src="https://raw.githubusercontent.com/samuelrizzardo/samuelrizzardo-stack/main/rizzardo%20digital.png" alt="Rizzardo Digital Logo" width="160px"/>
+<!-- BANNER ANIMADO / TOPO -->
+<img src="https://raw.githubusercontent.com/samuelrizzardo/samuelrizzardo-stack/main/assets/banner.png" alt="Rizzardo Digital Banner" width="100%" />
 
 # Samuel Rizzardo
 ### **Founder @ Rizzardo Digital**
-
-<br>
 
 <a href="https://linkedin.com/in/samuelrizzardo" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,7 +22,7 @@
 
 ## 💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na UMC e apaixonado por transformar desafios complexos em soluções digitais elegantes, eficientes e de alto impacto. Como fundador da **Rizzardo Digital**, atuo no desenvolvimento de software, automações inteligentes e criação de experiências digitais voltadas para resultados comerciais reais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na UMC e apaixonado por transformar desafios complexos em soluções digitais elegantes, eficientes e de alto impacto. Como fundador da **Rizzardo Digital**, atuo na ponta do desenvolvimento de software, automações inteligentes e criação de experiências digitais voltadas para resultados comerciais reais.
 
 ---
 
@@ -82,26 +80,35 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na UMC e apaixonado 
 
 | Projeto | Descrição | Status |
 | :--- | :--- | :--- |
-| [**Rizzardo Digital**](https://rizzardo-digital-elevate.lovable.app/) | Site institucional oficial da agência e portfólio de serviços. | **Em produção 🌐** |
+| [**Rizzardo Digital**](https://rizzardodigital.com) | Site institucional oficial da agência e portfólio de serviços. | **Em produção 🌐** |
 | [**GitHub README Premium**](https://github.com/samuelrizzardo) | Template open source de perfil profissional em preto e dourado. | **Disponível 📦** |
 | [**AI Dashboard**](https://github.com/samuelrizzardo) | Painel inteligente integrado com modelos de linguagem para automações. | **Em desenvolvimento 🤖** |
 | [**Sistema de Automação**](https://github.com/samuelrizzardo) | Plataforma de integração de APIs e fluxos empresariais escaláveis. | **Em desenvolvimento ⚙️** |
 
 ---
 
-## 📊 Análise do GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelrizzardo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=D1B06B&icon_color=D1B06B" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelrizzardo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=D1B06B&icon_color=D1B06B" alt="GitHub Stats" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrizzardo&layout=compact&theme=tokyonight&hide_border=true&title_color=D1B06B" alt="Principais idiomas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrizzardo&layout=compact&theme=tokyonight&hide_border=true&title_color=D1B06B" alt="Top Languages" />
 
   <br><br>
 
   <img src="https://github-readme-stats.vercel.app/api/streak-stats/?username=samuelrizzardo&theme=tokyonight&hide_border=true&ring=D1B06B&fire=D1B06B&currStreakLabel=D1B06B" alt="GitHub Streak" />
+
+  <br><br>
+
+  <!-- Snake Animation customizado em preto/dourado -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 
 </div>
 
@@ -112,10 +119,18 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na UMC e apaixonado 
 Se você tem um projeto em mente, precisa escalar sua presença digital ou quer implementar automações inteligentes na sua empresa, entre em contato:
 
 * 💼 **LinkedIn:** [in/samuelrizzardo](https://linkedin.com/in/samuelrizzardo)
-* 🌐 **Website:** [rizzardo-digital-elevate.lovable.app](https://rizzardo-digital-elevate.lovable.app/)
+* 🌐 **Website:** [[rizzardodigital.com](https://rizzardo-digital-elevate.lovable.app/)]
 * ✉️ **Email:** contatosamuel.rizzardo@gmail.com
 
 ---
+
+<div align="center">
+
+> Building premium software, AI and automation solutions.
+> 
+> **Samuel Rizzardo** • **Rizzardo Digital**
+
+</div>
 
 <div align="center">
 
