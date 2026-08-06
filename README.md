@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- BANNER / TOPO -->
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop" alt="Rizzardo Digital Banner" width="100%" />
-
-<br><br>
-
 <!-- LOGO OFICIAL -->
 <img src="https://raw.githubusercontent.com/samuelrizzardo/samuelrizzardo-stack/main/rizzardo%20digital.png" alt="Rizzardo Digital Logo" width="160px"/>
 
