@@ -80,7 +80,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na UMC e apaixonado 
 
 | Projeto | Descrição | Status |
 | :--- | :--- | :--- |
-| [**Rizzardo Digital**](https://rizzardodigital.com) | Site institucional oficial da agência e portfólio de serviços. | **Em produção 🌐** |
+| [**Rizzardo Digital**]([https://rizzardodigital.com](https://rizzardo-digital-elevate.lovable.app/)) | Site institucional oficial da agência e portfólio de serviços. | **Em produção 🌐** |
 | [**GitHub README Premium**](https://github.com/samuelrizzardo) | Template open source de perfil profissional em preto e dourado. | **Disponível 📦** |
 | [**AI Dashboard**](https://github.com/samuelrizzardo) | Painel inteligente integrado com modelos de linguagem para automações. | **Em desenvolvimento 🤖** |
 | [**Sistema de Automação**](https://github.com/samuelrizzardo) | Plataforma de integração de APIs e fluxos empresariais escaláveis. | **Em desenvolvimento ⚙️** |
